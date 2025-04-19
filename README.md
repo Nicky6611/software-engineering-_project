@@ -17,7 +17,7 @@
 2. **Team Roles**:  
    - **Frontend Developer**: Nick p2320628  
    - **Backend Logic**: Noah p2321173 
-   - **Testing & Documentation**:  
+   - **Testing & Documentation**: Dam p2320588 
 3. **Timeline**: ~4 weeks total for development and testing.  
 4. **Key Algorithms**:  
    - **Word Table Parsing**: Iterate through Word tables and extract rows (excluding headers).  
